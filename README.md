@@ -1,7 +1,3 @@
-# Smart_Contracts_lib
-
-I'll help you create a comprehensive README file for your smart contracts library. Based on the project structure you've described, here's a detailed README that explains the purpose and organization of the repository.
-
 # Smart Contracts Library
 
 Welcome to the Smart Contracts Library! This repository contains a collection of Ethereum smart contracts that serve as educational resources, challenges, and reusable templates for blockchain developers.
