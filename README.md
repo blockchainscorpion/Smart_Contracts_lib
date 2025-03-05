@@ -11,9 +11,9 @@ contracts/
 │
 ├── spot_the_error/                # Various contract challenges with bugs to find
 │
-├── templates/                     # Ready-to-use contract templates for common use cases
+├── templates/  (coming soon)       # Ready-to-use contract templates for common use cases
 │
-└── _complete_or_improve/          # Contracts that need completion or enhancement
+└── _complete_or_improve/ (coming soon) # Contracts that need completion or enhancement
 ```
 
 ## Purpose
